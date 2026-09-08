@@ -1,0 +1,136 @@
+{
+  "source": "demo",
+  "sourceCommit": "93526d9",
+  "fps": 30,
+  "assets": {
+    "teammate-ping": {
+      "width": 1600,
+      "height": 900,
+      "mobile": {
+        "width": 1080,
+        "height": 810,
+        "revision": "bf8ea405ac8f",
+        "bytes": 1060526
+      },
+      "duration": 9.7,
+      "chapters": [
+        "Type @ in the composer",
+        "Choose your teammate",
+        "A human-only ping"
+      ],
+      "revision": "0c6d0a0cc26a",
+      "bytes": 1376430
+    },
+    "branch-map": {
+      "width": 2400,
+      "height": 1350,
+      "mobile": {
+        "width": 1080,
+        "height": 1350,
+        "revision": "0c5f49839f2d",
+        "bytes": 4112061
+      },
+      "duration": 13.7,
+      "chapters": [
+        "Start in the shared conversation",
+        "Open the branch map",
+        "Choose token-bucket",
+        "Pick up the full context"
+      ],
+      "revision": "b5449349032d",
+      "bytes": 7571552,
+      "ambient": {
+        "width": 1440,
+        "height": 810,
+        "frames": 329,
+        "duration": 13.708,
+        "loopCount": 0,
+        "independentFrames": true,
+        "revision": "2a6a76f472c4",
+        "bytes": 20294408,
+        "avif": {
+          "width": 1440,
+          "height": 810,
+          "duration": 13.708,
+          "frames": 329,
+          "loopCount": 0,
+          "revision": "389c1827d38c",
+          "bytes": 1357212
+        },
+        "mobile": {
+          "width": 864,
+          "height": 1080,
+          "frames": 329,
+          "duration": 13.708,
+          "loopCount": 0,
+          "independentFrames": true,
+          "revision": "418ecf255783",
+          "bytes": 16200280,
+          "avif": {
+            "width": 864,
+            "height": 1080,
+            "duration": 13.708,
+            "frames": 329,
+            "loopCount": 0,
+            "revision": "9f75ef7f022d",
+            "bytes": 1012147
+          }
+        }
+      }
+    },
+    "live-session": {
+      "width": 1600,
+      "height": 1000,
+      "mobile": {
+        "width": 1080,
+        "height": 1350,
+        "revision": "081ebc1775ae",
+        "bytes": 1823956
+      },
+      "duration": 14.7,
+      "chapters": [
+        "Write to the shared agent",
+        "Send one prompt",
+        "Watch the answer arrive together"
+      ],
+      "revision": "0f6884b5ab96",
+      "bytes": 1877675
+    },
+    "branch-session": {
+      "width": 1664,
+      "height": 1248,
+      "mobile": {
+        "width": 1080,
+        "height": 1350,
+        "revision": "263e0dfbd914",
+        "bytes": 3859832
+      },
+      "duration": 14.7,
+      "chapters": [
+        "Choose an exact reply",
+        "Give the branch a direction",
+        "Continue independently"
+      ],
+      "revision": "4fb9293f0c03",
+      "bytes": 4935335
+    },
+    "branch-detail": {
+      "width": 1600,
+      "height": 1000,
+      "mobile": {
+        "width": 1080,
+        "height": 1350,
+        "revision": "2f7938f129ce",
+        "bytes": 2649609
+      },
+      "duration": 11.7,
+      "chapters": [
+        "Read the branch summary",
+        "Jump into the full context",
+        "Return to the whole picture"
+      ],
+      "revision": "691d34bbe9c7",
+      "bytes": 3237465
+    }
+  }
+}
