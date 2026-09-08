@@ -2,8 +2,9 @@
 
 ## Current state
 
-This repository is a deployable frontend preview. GitHub Pages serves the static
-site; there is **no signup API or database**.
+The public preview is live at
+https://thomasemnetu.github.io/braid-landing-page/. GitHub Pages deployment is
+complete; there is **no signup API or database**.
 
 Both forms in `src/components/WaitlistForm.tsx` validate input but deliberately
 send and store nothing. A valid submission says that signup storage is not
